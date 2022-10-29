@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://realtrickz.ga" target="_blank"><img src="https://postimg.cc/CZMCgsh9" width="900px"></a>
+<a href="https://realtrickz.ga" target="_blank"><img src="https://imgur.com/a/688Slt8" width="900px"></a>
 <br><br>
   
   
