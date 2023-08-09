@@ -1,6 +1,5 @@
 
 <div align="center">
-<a href="https://realtrickz.ga" target="_blank"><img src="https://i.imgur.com/kHgmfqN.png" width="900px"></a>
 <br><br>
   
   
@@ -10,8 +9,8 @@
 
 <div align="center">
 
-congrats on finding my Github profile. <br>
-📫 Ask me anything in my Discord DMs (Real trickz#9095), 
+"Code your dreams into reality, for every line you write brings you closer to innovation and endless possibilities"
+discord: @realtrickz
  
 <br>
 <i>Happy Coding!</i>
