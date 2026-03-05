@@ -1,27 +1,72 @@
+# Wayde
 
-<div align="center">
-<br><br>
-  
-  
-<h2><img src="https://i.imgur.com/WGZ79wF.gif" width="30px" height="30px"> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
-</div>
+Founder of **Wayde Corps** • Developer • System Builder
 
+I build software systems, platforms, and experimental technology projects.
+My focus is turning ideas into real working products — from concept to deployment.
 
-<div align="center">
+As the founder of **Wayde Corps**, I work on developing tools, applications, and digital platforms designed to help individuals and businesses succeed through technology.
 
-"Code your dreams into reality, for every line you write brings you closer to innovation and endless possibilities"
-discord: @realtrickz
- 
-<br>
-<i>Happy Coding!</i>
+---
 
-</div>
+## Tech Stack
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Roblox](https://img.shields.io/badge/Roblox-Lua_Development-000000?style=for-the-badge\&logo=roblox)
+![Discord](https://img.shields.io/badge/Discord-Bot_Development-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Realtrickz&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=74a0ad&icon_color=74a0ad&text_color=D3D3D3&bg_color=043654" alt="Real trickz's Github Stats">
+Core areas I work in:
 
-</br>
-</br>
+• Web application development
+• Backend systems & APIs
+• Authentication & access systems
+• Developer tools and automation
+• Game systems (Roblox development)
+• Bots and integrations
 
-</div>
+---
+
+## About Wayde Corps
+
+**Wayde Corps** is a technology-focused company built around experimentation and innovation.
+
+The goal is to build platforms, applications, and digital systems that help people:
+
+• build businesses
+• access better tools
+• create opportunities through technology
+
+Projects range from web platforms to experimental systems designed to test new ideas and solutions.
+
+---
+
+## Current Focus
+
+• Building scalable web platforms
+• Developing internal systems and admin dashboards
+• Experimenting with new product ideas
+• Improving security and authentication systems
+• Expanding the Wayde Corps ecosystem
+
+---
+
+## Contact
+
+Website
+https://coderzen.pro/contact
+
+Discord
+@coderzenk
+
+---
+
+## Philosophy
+
+Ideas alone are meaningless.
+
+Real progress comes from building, testing, and shipping systems that actually work.
+
+Every project is an opportunity to experiment, learn, and move one step closer to building technology that matters.
